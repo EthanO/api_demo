@@ -13,7 +13,15 @@
     {"name": "Roxy"}, 
     {"name": "Will"},
     {"name": "Henry"}
-     ]
+     ],
+  "School":{
+    "Types":{
+      "Type1": "type 1 here",
+      "Type2": "type 2 here",
+      "Type3": "type 3 here"
+    }
+   
+  }
  
     
 
